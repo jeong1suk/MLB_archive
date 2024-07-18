@@ -6,25 +6,10 @@ Date: 2024.07 ~ 2024.10 첫째주 (14주)
 
 ## Coursera DeepLearning Specialization
 
-| 코스명                                                                                 | 모듈 | 필기 |
-| -------------------------------------------------------------------------------------- | ---- | ---- | --- |
-| Neural Networks and Deep Learning                                                      | 1    |      |
-| .                                                                                      | 2    |      |
-| .                                                                                      | 3    |      |
-| .                                                                                      | 4    |      |
-| Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | 1    |      |     |
-| .                                                                                      | 2    |      |
-| .                                                                                      | 3    |      |
-| Structuring Machine Learning Project                                                   | 1    |      |
-| .                                                                                      | 2    |      |
-| Convolutional Neural Network                                                           | 1    |      |
-| .                                                                                      | 2    |      |
-| .                                                                                      | 3    |      |
-| .                                                                                      | 4    |      |
-| Sequence Models                                                                        | 1    |      |
-| .                                                                                      | 2    |      |
-| .                                                                                      | 3    |      |
-| .                                                                                      | 4    |      |
+| 코스                                           | 모듈 | 필기 |
+| ---------------------------------------------- | ---- | ---- |
+| Course 3: Structuring Machine Learning Project | 1    |      |
+| Course 3                                       | 2    |      |
 
 ## Kaggle
 
