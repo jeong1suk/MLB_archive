@@ -18,11 +18,16 @@ Date: 2024.07 ~ 2024.10 첫째주 (14주)
 - [USPTO - Explainable AI for Patent Professionals](https://www.kaggle.com/competitions/uspto-explainable-ai)
   - April 24, 2024 ~ July 24, 2024
   - `NLP`, `Science and Technology`, `Custom Metric`
+  - 최종: 179 / 571
+- [LLM 20 Questions](https://www.kaggle.com/competitions/llm-20-questions)
+  - May 15, 2024 ~ August 27, 2024
+  - `Text`, `NLP`
 
 ### Playground
 
 - [Binary Classification of Insurance Cross Selling](https://www.kaggle.com/competitions/playground-series-s4e7)
   - Season 4 Episode 7 24년 7월 플레이그라운드
+  - 415등 / 2234명
 
 ## Gemma Sprint
 
